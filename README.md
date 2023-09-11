@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**Suah-Cho/Suah-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=Waving&color=50C2FF&height=150&section=header&text=Suah-Cho&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuah-Cho&count_bg=%23FF3A3A&title_bg=%23FFBBBB&icon=smugmug.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+## Skills Stack
+  
+  ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+  
+  ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat&logo=opencv&logoColor=white)
+
+  
+
+## Cowork tools
+  
+  ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Slack-4a154b?style=flat&logo=slack&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+  
+</div>

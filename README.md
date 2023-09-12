@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=50C2FF&height=150&section=header&text=Suah-Cho&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=50C2FF&height=150&section=header&text=SUAH&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuah-Cho&count_bg=%23FF3A3A&title_bg=%23FFBBBB&icon=smugmug.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -26,7 +26,7 @@
 
   
 
-## Cowork tools
+## Cowork Tools
   
   ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Slack-4a154b?style=flat&logo=slack&logoColor=white)

@@ -6,6 +6,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuah-Cho&count_bg=%23FF3A3A&title_bg=%23FFBBBB&icon=smugmug.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suah-Cho&show_icons=true&theme=react)
+
+
 ## Skills Stack
   
   ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

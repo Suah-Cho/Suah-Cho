@@ -8,6 +8,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suah-Cho&show_icons=true&theme=react)
 
+## 👋 About Me
+- 아주대학교 디지털미디어
+- 데이터 청년 캠퍼스 수료(2021)
+- 클라우드 엔지니어링 공부 중!
+- 수상 : 아주 소프트콘 최우수상(2022.12)
+- 연락처 : sacho0929@gmail.com
+
 
 ## 📚 Skills Stack 
   
@@ -31,7 +38,7 @@
 
   
 
-## Cowork Tools
+## 🤝Cowork Tools
   
   ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Slack-4a154b?style=flat&logo=slack&logoColor=white)

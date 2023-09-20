@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suah-Cho&show_icons=true&theme=react)
 
 
-## Skills Stack
+## 📚 Skills Stack 
   
   ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -26,6 +26,8 @@
   ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat&logo=opencv&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
 
   
 

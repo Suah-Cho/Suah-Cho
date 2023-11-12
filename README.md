@@ -39,6 +39,8 @@
   ![Static Badge](https://img.shields.io/badge/Terraform-%23844FBA?style=flat&logo=terraform&logoColor=white)
 
 
+![SuahCho's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+
   
 
 ## 🤝Cowork Tools

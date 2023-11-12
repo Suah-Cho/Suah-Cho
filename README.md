@@ -7,6 +7,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuah-Cho&count_bg=%23FF3A3A&title_bg=%23FFBBBB&icon=smugmug.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
+![SuahCho's github stats](https://github-readme-stats.vercel.app/api?username=Suah-Cho&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suah-Cho&layout=compact&theme=tokyonight)
+
+
+
 </div>
 
 ## 👋 About Me
@@ -37,9 +42,6 @@
   ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Terraform-%23844FBA?style=flat&logo=terraform&logoColor=white)
-
-
-![SuahCho's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
 
   
 

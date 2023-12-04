@@ -34,7 +34,6 @@
   
   ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)

@@ -32,19 +32,20 @@
   ![Static Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+
+  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  
   ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  
   ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Terraform-%23844FBA?style=flat&logo=terraform&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=flat&logo=amazonaws&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+  
+
   
 
 ## 🤝Cowork Tools

@@ -32,8 +32,7 @@
   ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=flat&logo=flask&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white)
+
 
   ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

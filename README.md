@@ -37,6 +37,8 @@
   ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=flat&logo=flask&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/FastAPI-%23009688?style=flat&logo=fastapi&logoColor=%23FFFFFF)
+
 
 
   ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)

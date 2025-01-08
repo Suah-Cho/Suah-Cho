@@ -52,7 +52,8 @@
   ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Terraform-%23844FBA?style=flat&logo=terraform&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=flat&logo=amazonaws&logoColor=white)
-  
+  ![Static Badge](https://img.shields.io/badge/Azure-%233FA9F5?style=flat&logo=azure&logoColor=%23FFFFFF)
+
 
   
 

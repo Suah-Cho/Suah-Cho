@@ -4,9 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=50C2FF&height=150&section=header&text=SUAH&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuah-Cho&count_bg=%23FF3A3A&title_bg=%23FFBBBB&icon=smugmug.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
 ![SuahCho's github stats](https://github-readme-stats.vercel.app/api?username=Suah-Cho&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suah-Cho&layout=compact&theme=tokyonight)
 
@@ -22,6 +19,7 @@
 - 경험 및 경력
   - Croft-AI Software engineer Intern (2024.05 ~ 2024.08)
   - Croft-AI Software engineer (2024.08 ~ 2025.03)
+  - KIS정보통신 IT기획 (2025.03 ~ )
 - 수상
   - 아주 소프트콘 최우수상(2022.12)
   - 아주 소프트콘 인기상(2022.12)
